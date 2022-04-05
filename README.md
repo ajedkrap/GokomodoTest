@@ -7,7 +7,7 @@ This repository is meant to fulfill the test for Gokomodo
 Use the package manager [Node.Js](https://nodejs.org/en/) to GokomodoTest.
 
 ```bash
-git clone https://github.com/ajedkrap/GradanaTest.git
+git clone https://github.com/ajedkrap/GokomodoTest.git
 yarn install
 yarn android
 ```
